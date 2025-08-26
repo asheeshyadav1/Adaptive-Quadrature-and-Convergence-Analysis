@@ -94,7 +94,7 @@ This phase repeats the procedure with **$m=5$**, increasing smoothness.
 
 ## What This Investigation Demonstrates
 
-- **Practical implementation of Composite Simpson's Rule** for piecewise functions.  
-- **Link between smoothness and convergence rate**: Theoretical order is an upper bound, realized only if the function is smooth enough.  
-- **Methodology for empirical convergence analysis**: Log-log error plots are used to determine effective order $p$.  
-- **Understanding numerical errors**: Moves beyond computation to explain why the method performs as it does based on integrand properties.
+- **Practical implementation of Composite Simpson's Rule** for piecewise functions
+- **Link between smoothness and convergence rate**: Theoretical order is an upper bound, realized only if the function is smooth enough
+- **Methodology for empirical convergence analysis**: Log-log error plots are used to determine effective order $p$
+- **Understanding numerical errors**: Moves beyond computation to explain why the method performs as it does based on integrand properties
